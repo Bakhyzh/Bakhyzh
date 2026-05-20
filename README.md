@@ -6,11 +6,11 @@
 <br>   
   
 <div align="center"> 
-  <h1>Hello My name is Beknur 👨‍💻</h1> 
+  <h1>Hello My name is Bakhyt 👨‍💻</h1> 
 </div>
  
 <div align="center">  
-  <h2>Android Developer 📱</h2>
+  <h2>Java Backend Developer 📱</h2>
 </div>
 
 
@@ -38,7 +38,16 @@
 <div >
 🛠 Technical Skills
 
-- **Backend:** Java, Spring Boot, Spring MVC, Spring Security - **Database:** PostgreSQL, MySQL, Hibernate, JPA - **Messaging & Caching:** Apache Kafka, Redis - **Architecture:** REST API, Multi Module Architecture, Microservices Basics - **Containerization:** Docker, Docker Compose - **Security:** JWT Authentication, Role Based Authorization - **Networking:** HTTP, TCP/IP, Docker Networking - **Tools:** Git, GitHub, IntelliJ IDEA, Linux - **Build Tools:** Maven, Gradle - **Testing:** JUnit, Mockito
+- **Backend:** Java, Spring Boot, Spring MVC, Spring Security
+- - **Database:** PostgreSQL, MySQL, Hibernate, JPA
+  - - - **Messaging & Caching:** Apache Kafka, Redis
+- - **Architecture:** REST API, Multi Module Architecture, Microservices Basics
+- - **Containerization:** Docker, Docker Compose
+-  - **Security:** JWT Authentication, Role Based Authorization
+- - **Networking:** HTTP, TCP/IP, Docker Networking
+- - **Tools:** Git, GitHub, IntelliJ IDEA, Linux
+- - **Build Tools:** Maven, Gradle
+- - **Testing:** JUnit, Mockito
    
 </div>
 
