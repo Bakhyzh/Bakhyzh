@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://pin.it/3WP1maUvD" alt="Описание GIF" >
+  <img src="video.mp4" alt="Описание GIF" >
   
  
 </div>   
