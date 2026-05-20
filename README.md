@@ -31,44 +31,14 @@
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="40" alt="androidstudio logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=kotlin" height="40" alt="kotlin logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=idea" height="40" alt="idea logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=gitlab" height="40" alt="gitlab logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=java" height="40" alt="java logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=gradle" height="40" alt="gradle logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=figma" height="40" alt="gradle logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="40" alt="sqlite logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=firebase" height="40" alt="firebase logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=ktor" height="40" alt="ktor logo"  />
+<img src="https://skillicons.dev/icons?i=java" height="40" alt="java logo"/> <img width="12"/> <img src="https://skillicons.dev/icons?i=spring" height="40" alt="spring logo"/> <img width="12"/> <img src="https://skillicons.dev/icons?i=postgres" height="40" alt="postgresql logo"/> <img width="12"/> <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql logo"/> <img width="12"/> <img src="https://skillicons.dev/icons?i=docker" height="40" alt="docker logo"/> <img width="12"/> <img src="https://skillicons.dev/icons?i=kafka" height="40" alt="kafka logo"/> <img width="12"/> <img src="https://skillicons.dev/icons?i=redis" height="40" alt="redis logo"/> <img width="12"/> <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo"/> <img width="12"/> <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"/> <img width="12"/> <img src="https://skillicons.dev/icons?i=idea" height="40" alt="idea logo"/> <img width="12"/> <img src="https://skillicons.dev/icons?i=linux" height="40" alt="linux logo"/> <img width="12"/> <img src="https://skillicons.dev/icons?i=nginx" height="40" alt="nginx logo"/>
 </div>
 
 <br>
 <div >
 🛠 Technical Skills
 
-- Architecture Patterns: MVVM, MVI, Clean Architecture
-- Dependency Injection: Dagger, Hilt, Koin
-- Networking: Retrofit , Ktor ,OkHttp
-- Reactive Programming: RxJava, Coroutines, Flow ,WorkManager
-- Storage: Room, SQLDelight,DataStore,SharedPreferences
-- UI: Jetpack Compose, XML
-- Android Components: Service, Broadcast Receiver, Content Provider
-- Version Control: Git, Git Flow,GitLab
-- Service: FireBase Cloud Messaging, FiresStore,Crashlytics,Authentication
-- Testing: JUnit, Espresso
+- **Backend:** Java, Spring Boot, Spring MVC, Spring Security - **Database:** PostgreSQL, MySQL, Hibernate, JPA - **Messaging & Caching:** Apache Kafka, Redis - **Architecture:** REST API, Multi Module Architecture, Microservices Basics - **Containerization:** Docker, Docker Compose - **Security:** JWT Authentication, Role Based Authorization - **Networking:** HTTP, TCP/IP, Docker Networking - **Tools:** Git, GitHub, IntelliJ IDEA, Linux - **Build Tools:** Maven, Gradle - **Testing:** JUnit, Mockito
    
 </div>
 
