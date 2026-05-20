@@ -39,15 +39,15 @@
 🛠 Technical Skills
 
 - **Backend:** Java, Spring Boot, Spring MVC, Spring Security
-- - **Database:** PostgreSQL, MySQL, Hibernate, JPA
-  - - - **Messaging & Caching:** Apache Kafka, Redis
-- - **Architecture:** REST API, Multi Module Architecture, Microservices Basics
-- - **Containerization:** Docker, Docker Compose
--  - **Security:** JWT Authentication, Role Based Authorization
-- - **Networking:** HTTP, TCP/IP, Docker Networking
-- - **Tools:** Git, GitHub, IntelliJ IDEA, Linux
-- - **Build Tools:** Maven, Gradle
-- - **Testing:** JUnit, Mockito
+- **Database:** PostgreSQL, MySQL, Hibernate, JPA
+- **Messaging & Caching:** Apache Kafka, Redis
+- **Architecture:** REST API, Multi Module Architecture, Microservices Basics
+- **Containerization:** Docker, Docker Compose
+- **Security:** JWT Authentication, Role Based Authorization
+- **Networking:** HTTP, TCP/IP, Docker Networking
+- **Tools:** Git, GitHub, IntelliJ IDEA, Linux
+- **Build Tools:** Maven, Gradle
+- **Testing:** JUnit, Mockito
    
 </div>
 
