@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="[https://i.pinimg.com/originals/d6/c2/fa/d6c2fa394015be847f8243c91fdac75d.gif](https://packaged-media.redd.it/uq8wsqtn0wq41/pb/m2-res_1080p.mp4?m=DASHPlaylist.mpd&var=sgpssan&v=1&e=1779300000&s=d6925f0d82e334fd266324c980de728be2da39b7)" alt="Описание GIF" >
+  <img src="https://pin.it/3eGN5bKx5"Описание GIF" >
   
  
 </div>   
