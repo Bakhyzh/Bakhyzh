@@ -1,9 +1,4 @@
-<div align="center">
-  <img src="video.mp4" alt="Описание GIF" >
-  
  
-</div>   
-<br>   
   
 <div align="center"> 
   <h1>Hello My name is Bakhyt 👨‍💻</h1> 
