@@ -1,7 +1,7 @@
  
   
 <div align="center"> 
-  <h1>Hello my name is Bakhyt Zharkynbek</h1> 
+  <h1>Hello my name is Bakhyt</h1> 
 </div>
  
 <div align="center">  
