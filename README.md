@@ -1,11 +1,11 @@
  
   
 <div align="center"> 
-  <h1>Hello my name is Bakhyt</h1> 
+  <h1>Hello my name is Bakhyt👨‍💻</h1> 
 </div>
  
 <div align="center">  
-  <h2>Java Backend Developer 🎯</h2>
+  <h2>Java Backend Developer⚙️</h2>
 </div>
 
 
