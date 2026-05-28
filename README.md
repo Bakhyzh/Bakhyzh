@@ -5,7 +5,7 @@
 </div>
  
 <div align="center">  
-  <h2>Java Backend Developer⚙️</h2>
+  <h2>JAVA BACKEND DEVELOPER</h2>
 </div>
 
 
