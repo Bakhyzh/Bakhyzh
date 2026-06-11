@@ -1,7 +1,7 @@
  
 # Hi, I'm Bakhyt 👋
 
-Java Backend Developer focused on designing and developing reliable backend systems and business applications.
+**Java Backend Developer** focused on designing and developing reliable backend systems and business applications.
 
 Experienced in building scalable services, implementing clean and maintainable solutions, and working with modern backend technologies. Focused on delivering stable, efficient, and practical software that meets business requirements and supports long-term growth.
 
