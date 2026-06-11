@@ -51,8 +51,6 @@
 </div>
 
 <br>
-<div align="center" style="margin: 40px 0">
-   <a href="https://github.com/Bakhyzh/github-profile-views-counter">
-       <img width="175px" src="https://komarev.com/ghpvc/?username=nick8787&color=DE002D">
-   </a>
+<div align="center">
+    <img src="https://komarev.com/ghpvc/?username=Bakhyzh&color=DE002D" alt="Profile Views">
 </div>
