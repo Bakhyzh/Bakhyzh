@@ -1,13 +1,9 @@
  
-  
-<div align="center"> 
-  <h1>hello my name's Bakhyt👨‍💻</h1> 
-</div>
- 
-<div align="center">  
-  <h2>JAVA BACKEND DEVELOPER</h2>
-</div>
+# Hi, I'm Bakhyt 👋
 
+Java Backend Developer focused on designing and developing reliable backend systems and business applications.
+
+Experienced in building scalable services, implementing clean and maintainable solutions, and working with modern backend technologies. Focused on delivering stable, efficient, and practical software that meets business requirements and supports long-term growth.
 
 <picture> 
   <source
