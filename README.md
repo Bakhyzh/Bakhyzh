@@ -1,5 +1,5 @@
  
-# Hi, I'm Bakhyt 👋  
+# Hi, I'm Bakhyt 👋 
 
 **Java Backend Developer** focused on designing and developing reliable backend systems and business applications.
 
