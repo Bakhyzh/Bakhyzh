@@ -1,30 +1,6 @@
 <img src="profile-header.svg" alt="Bakhyt, Java backend developer" width="100%"/>
 
-I like the parts of backend work where correctness matters: money movement, concurrency, reliable events.
 
-## Featured project
-
-### [Esep API](https://github.com/Bakhyzh/esep-api)
-Wallet and transfers service with a double-entry ledger.
-
-- **Concurrency:** accounts are locked with `SELECT ... FOR UPDATE` in id order. A test with 100 parallel transfers proves no money is lost, and removing the ordering makes it fail with a deadlock.
-- **Idempotency:** `Idempotency-Key` plus a request fingerprint. A retry returns the original result.
-- **Reliable events:** Transactional Outbox into Kafka, idempotent consumer, retries and a dead letter topic.
-- **SQL analytics:** window functions and a composite index took a report over 2M ledger rows from 125 ms to 0.24 ms.
-- **Also:** JWT, Redis cache, Flyway, 105 tests on Testcontainers, Docker Compose, GitHub Actions.
-
-Frontend: [esep-web](https://github.com/Bakhyzh/esep-web)
-
-## Stack
-
-**Backend:** Java 21, Spring Boot, Spring Security, Spring Data JPA, Hibernate
-**Data:** PostgreSQL, Flyway, Redis, Kafka
-**Delivery:** Docker, GitHub Actions, Linux
-**Testing:** JUnit 5, Mockito, Testcontainers
-
-## Contact
-
-[Telegram](https://t.me/bakhyzh) · [LinkedIn](https://www.linkedin.com/in/bakhyt-zharkynbek-891663335/) · zharqynbekov.b@gmail.com
 <p align='center'>
    <a href="https://t.me/bakhyzh" target="_blank" rel="noopener noreferrer">
        <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/>
