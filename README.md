@@ -1,4 +1,4 @@
-<img src="assets/profile-header.svg" alt="Bakhyt, Java backend developer" width="100%"/>
+<img src="profile-header.svg" alt="Bakhyt, Java backend developer" width="100%"/>
 
 I like the parts of backend work where correctness matters: money movement, concurrency, reliable events.
 
